@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\bin\Debug\net6.0\bookStore.exe
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\bin\Debug\net6.0\bookStore.deps.json
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\bin\Debug\net6.0\bookStore.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\bin\Debug\net6.0\bookStore.dll
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\bin\Debug\net6.0\bookStore.pdb
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\obj\Debug\net6.0\bookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\obj\Debug\net6.0\bookStore.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\obj\Debug\net6.0\bookStore.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\obj\Debug\net6.0\bookStore.dll
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\obj\Debug\net6.0\refint\bookStore.dll
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\obj\Debug\net6.0\bookStore.pdb
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\obj\Debug\net6.0\bookStore.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\bookStore\bookStore\obj\Debug\net6.0\ref\bookStore.dll
